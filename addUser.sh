@@ -1,6 +1,6 @@
 #!/bin/bash
 MySQL_username='root'
-MySQL_password='Dann@monster1986'
+MySQL_password='password'
 MySQL_virtualDomains='domains'
 mailServerDatabase='mailserver' #Incase your using an database for you mailserver
 
